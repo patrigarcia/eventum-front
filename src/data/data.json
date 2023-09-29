@@ -62,46 +62,46 @@
     "nationality": [
         {
             "country": "ARG",
-            "quantity": 2
+            "quantity": 1
         },
         {
             "country": "COL",
-            "quantity": 7
+            "quantity": 1
         },
         {
             "country": "ESP",
-            "quantity": 8
+            "quantity": 1
         },
         {
             "country": "BRA",
-            "quantity": 4
+            "quantity": 1
         }
     ],
     "type": [
         {
             "id": "FULLSTACK",
             "label": "FULLSTACK",
-            "value": 2
+            "value": 1
         },
         {
             "id": "CIBERSEGURIDAD",
             "label": "CIBERSEGURIDAD",
-            "value": 3
+            "value": 1
         },
         {
             "id": "UX/UI",
             "label": "UX/UI",
-            "value": 3
+            "value": 1
         },
         {
             "id": "DATA",
             "label": "DATA",
-            "value": 3
+            "value": 1
         },
         {
             "id": "Otros",
             "label": "Otros",
-            "value": 3
+            "value": 1
         }
     ]
 }

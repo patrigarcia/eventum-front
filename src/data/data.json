@@ -66,7 +66,7 @@
         },
         {
             "country": "COL",
-            "quantity": 1
+            "quantity": 2
         },
         {
             "country": "ESP",
@@ -74,7 +74,7 @@
         },
         {
             "country": "BRA",
-            "quantity": 1
+            "quantity": 3
         }
     ],
     "type": [
@@ -86,7 +86,7 @@
         {
             "id": "CIBERSEGURIDAD",
             "label": "CIBERSEGURIDAD",
-            "value": 1
+            "value": 2
         },
         {
             "id": "UX/UI",
@@ -96,7 +96,7 @@
         {
             "id": "DATA",
             "label": "DATA",
-            "value": 1
+            "value": 2
         },
         {
             "id": "Otros",
